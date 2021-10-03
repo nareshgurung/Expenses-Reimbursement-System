@@ -1,0 +1,33 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+
+	<session-factory>
+		
+		<!-- This is the connection information -->
+		<property name="hibernate.connection.username">admin</property>
+		<property name="hibernate.connection.password">P4ssw0rd!</property>
+		<property name="hibernate.connection.url">jdbc:mariadb://database-2.c2d8gjkbo2ek.us-east-1.rds.amazonaws.com:3306/ers</property>
+		<property name="hibernate.connection.driver_class">org.mariadb.jdbc.Driver</property>
+		
+		<property name="hibernate.connection.dialect">org.hibernate.dialect.MySQLDialect</property>
+		<property name="hibernate.show_sql">false</property>
+		<property name="hibernate.format_sql">true</property>
+		
+		<property name="hibernate.connection.pool_size">10</property>
+		
+		<!-- <proverty name="hibernate.current_session_context_class">thread</proerty> -->
+		<property name="hibernate.hbm2ddl.auto">validate</property>
+		
+		
+		
+
+	<!-- We will map our classes down here -->
+		<mapping class="com.ers.models.Role"/>
+		<mapping class="com.ers.models.Employee"/>
+		<mapping class="com.ers.models.Status"/>
+		<mapping class="com.ers.models.Reimbursement"/>
+	</session-factory>
+
+</hibernate-configuration>

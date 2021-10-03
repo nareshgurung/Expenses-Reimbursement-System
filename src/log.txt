@@ -1,0 +1,152 @@
+2021-09-27 15:15:19 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-09-27 15:15:22 INFO  LoggingErs:182 - User was logged in. 
+2021-09-27 15:15:22 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-27 15:15:42 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 12:29:28 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-09-28 12:29:31 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:29:32 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:30:18 ERROR SqlExceptionHelper:142 - (conn=11413) (conn=11413) execute() is called on closed statement
+2021-09-28 12:30:18 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:30:25 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:30:26 INFO  LoggingErs:220 -  You have succesfully created the Reimbursement requested. 
+2021-09-28 12:30:26 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:30:39 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 12:30:57 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:30:57 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 12:30:57 INFO  LoggingErs:98 - there is no user
+2021-09-28 12:31:07 INFO  LoggingErs:151 -  Your have updated managerreimbursement by
+2021-09-28 12:31:07 WARN  LoggingErs:160 - No user credentials 
+2021-09-28 12:31:07 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 12:31:07 INFO  LoggingErs:98 - there is no user
+2021-09-28 12:31:14 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 12:31:14 INFO  LoggingErs:98 - there is no user
+2021-09-28 12:31:19 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 12:31:32 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:31:32 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:31:39 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 12:31:45 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:31:46 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:32:05 ERROR AssertionFailure:31 - HHH000099: an assertion failure occurred (this may indicate a bug in Hibernate, but is more likely due to unsafe use of the session): org.hibernate.AssertionFailure: collection was processed twice by flush()
+2021-09-28 12:32:05 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:32:18 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 12:34:06 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-09-28 12:34:09 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:34:09 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:34:12 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 12:34:18 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:34:19 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:34:21 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 12:34:29 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:34:30 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:34:43 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:34:44 INFO  LoggingErs:220 -  You have succesfully created the Reimbursement requested. 
+2021-09-28 12:34:45 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:35:29 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 12:35:36 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:35:36 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:35:51 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:38:55 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-09-28 12:38:58 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:40:00 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-09-28 12:40:02 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:40:03 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:40:32 ERROR SqlExceptionHelper:142 - Operation not permit on a closed resultSet
+2021-09-28 12:40:32 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:40:47 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:40:50 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:40:51 INFO  LoggingErs:220 -  You have succesfully created the Reimbursement requested. 
+2021-09-28 12:40:51 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:41:04 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:41:04 INFO  LoggingErs:220 -  You have succesfully created the Reimbursement requested. 
+2021-09-28 12:41:04 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:44:51 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 12:44:57 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-09-28 12:45:01 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:45:02 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:45:09 ERROR SqlExceptionHelper:142 - Operation not permit on a closed resultSet
+2021-09-28 12:45:09 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:45:25 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:56:34 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-09-28 12:56:37 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 12:56:37 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 12:56:58 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:02:52 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:04:29 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:04:30 INFO  LoggingErs:220 -  You have succesfully created the Reimbursement requested. 
+2021-09-28 13:04:30 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:07:58 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 13:08:10 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 13:08:11 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:08:38 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:26:27 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 13:28:26 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-09-28 13:28:28 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 13:28:29 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:28:33 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 13:28:43 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 13:28:44 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:28:57 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:28:57 INFO  LoggingErs:220 -  You have succesfully created the Reimbursement requested. 
+2021-09-28 13:28:58 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:29:12 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 13:29:22 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 13:29:22 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:29:35 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:29:35 INFO  LoggingErs:220 -  You have succesfully created the Reimbursement requested. 
+2021-09-28 13:29:35 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 13:29:48 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 13:30:03 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 13:30:04 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 13:30:04 INFO  LoggingErs:98 - there is no user
+2021-09-28 13:30:08 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 13:30:08 INFO  LoggingErs:98 - there is no user
+2021-09-28 13:30:13 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 13:30:13 INFO  LoggingErs:98 - there is no user
+2021-09-28 13:30:23 INFO  LoggingErs:249 -  You have succesfully retrieved all the reimbursement. 
+2021-09-28 13:30:29 INFO  LoggingErs:60 - succesfully retrieved the average amount. 
+2021-09-28 15:53:51 DEBUG logging:28 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2021-09-28 15:53:54 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 15:53:55 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 15:54:34 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 15:54:38 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 15:54:42 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 15:54:43 INFO  LoggingErs:220 -  You have succesfully created the Reimbursement requested. 
+2021-09-28 15:54:43 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 15:54:54 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 15:55:07 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 15:55:07 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 15:55:27 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 15:55:28 INFO  LoggingErs:220 -  You have succesfully created the Reimbursement requested. 
+2021-09-28 15:55:28 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 15:55:35 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 15:55:46 INFO  LoggingErs:182 - User was logged in. 
+2021-09-28 15:55:47 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 15:55:47 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:55:54 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 15:55:54 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:55:57 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 15:55:57 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:56:31 INFO  LoggingErs:151 -  Your have updated managerreimbursement by
+2021-09-28 15:56:31 WARN  LoggingErs:160 - No user credentials 
+2021-09-28 15:56:31 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 15:56:31 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:56:36 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 15:56:36 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:56:47 INFO  LoggingErs:151 -  Your have updated managerreimbursement by
+2021-09-28 15:56:47 WARN  LoggingErs:160 - No user credentials 
+2021-09-28 15:56:47 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 15:56:47 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:56:50 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 15:56:50 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:57:01 INFO  LoggingErs:60 - succesfully retrieved the average amount. 
+2021-09-28 15:57:37 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 15:57:38 INFO  LoggingErs:123 - User reimbursement succesfully retrieved. 
+2021-09-28 15:57:39 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 15:57:39 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:57:39 INFO  LoggingErs:96 - infor retrieved succesfully by status
+2021-09-28 15:57:39 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:57:41 INFO  LoggingErs:131 - Yor are logged out 
+2021-09-28 15:57:42 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:57:44 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:57:45 INFO  LoggingErs:98 - there is no user
+2021-09-28 15:57:46 INFO  LoggingErs:98 - there is no user

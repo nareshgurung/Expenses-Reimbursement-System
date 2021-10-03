@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>login</title>
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>Expenses Reimbursement System</h1>
+        </header>
+        <nav>
+            <ul>
+                <li>
+                    <a href=emplogin.html>Employee Login</a>
+                    <a href=empreim.html>Reimbursement</a><br>
+                    <a href =logout.html id="logout">logout</a>
+
+                </li>
+            </ul>
+        </nav>
+        <main>
+            <h2>All Reimbursement</h2>
+            <table id = "myTable">
+                <tr>
+                    <th class="category">Reim Id</th>
+                    <th class="category">Amount</th>
+                     <th class="category">description</th>
+                    <th class="category">Author</th>
+                    <th class="category">Resolver</th>
+                    <th class="category">Status</th>
+                </tr>
+            </table>
+            <h2>Create Reimbursement</h2>
+            <p>Required information is marked with an asterisk(*)</p>
+            <form method = "POST" action="http://localhost:7000/reim/addreim">
+                <label for="*amount">Amount:</label>
+                <input type="number" id="amount" required name="amount"><br><br>
+                <label for="*description">description: </label>
+                <input type="text" id="description" required name ="description"><br><br>
+               <!-- <label for="*manager">Manager's Name</label>
+                    <select id="resolver" name="resolver">
+                        <option value="9">Christina</option>
+                        <option value="Zack">Zack</option>
+                    </select> -->
+               <input id="mysubmit" type="submit" value="submit" required>
+            </form>
+        </main>
+        <footer>
+            Copyright &copy; JoinUS.com<br>
+            <a href="mailto:joinus@social.com">ers@System.com</a>
+        </footer>        
+    </div>
+    <script src="empreim.js"></script>
+</body>
+</html>
