@@ -26,3 +26,6 @@
 - A Manager can view all resolved requests from all employees and see which manager resolved it
 - A Manager can view reimbursement requests from a single Employee
 - A Manager can view average reimbursement requested by each Employee 
+
+### Technologies Used
+-HTML, CSS, JavaScript, Javalin, Hibernate, Java, AWS's RDS
