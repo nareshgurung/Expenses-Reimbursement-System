@@ -28,4 +28,4 @@
 - A Manager can view average reimbursement requested by each Employee 
 
 ### Technologies Used
--HTML, CSS, JavaScript, Javalin, Hibernate, Java, AWS's RDS
+-HTML, CSS, JavaScript, Javalin, Hibernate, Java, AWS's RDS, Git, Log4j
